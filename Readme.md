@@ -26,4 +26,4 @@
 ## Ha sido posible la realización de este proyecto gracias a la información de las páginas web:
 
 #### > [Arenal](https://www.arenal.com/) - Tienda de la cual se saco la información.
-#### > [MongoDB] (https://www.mongodb.com/es) - Información sobre las bases de datos y operadores.
+#### > [MongoDB](https://www.mongodb.com/es) - Información sobre las bases de datos y operadores.
