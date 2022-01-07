@@ -1,9 +1,6 @@
 # **REPOSITORIO DEL PROYECTO DE MONGODB (AGGREGATE)**
 
-### Este es el archivo Readme.md del proyecto que se dedicará a la recopilación 
-de información sobre el stock y resposición de una droguería en la que nos
-encontraremos datos sobre el articulo, com la marca, el precio, las unidades,
-el compuesto...
+### Este es el archivo Readme.md del proyecto que se dedicará a la recopilación de información sobre el stock y resposición de una droguería en la que nos encontraremos datos sobre el articulo, com la marca, el precio, las unidades, el compuesto...
 #### Indagando en este proyecto nos encontraremos:
 
 * **Utilización de archivos .js**
