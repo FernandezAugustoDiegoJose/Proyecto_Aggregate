@@ -4,7 +4,9 @@
 #### Indagando en este proyecto nos encontraremos:
 
 * **Utilización de archivos .js**
+
 * **Capacidad para crear una base de datos**
+
 * **Utilización de operadores .aggregate(), tales como:**
 * $match
 * $group
@@ -15,9 +17,11 @@
 * $max
 * $addFields
 * $year
+
 * **Utilización de operadores .find(), tales como:**
 * $gt
 * $lt...
+
 * **Dando aportaciones personales al proyecto**
 
 ## Ha sido posible la realización de este proyecto gracias a la información de las páginas web:
